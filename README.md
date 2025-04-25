@@ -5,6 +5,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sunilselvaraj1/threat-hunting-scenario-tor)**
+- **[Brute Force Detection on Azure VM using KQL and SIEM (Microsoft Sentinel)](https://github.com/sunilselvaraj1/brute-force-detection)**  
+  Detects failed login attempts via log analytics and SIEM, using MITRE ATT&CK and NIST 800-61 as frameworks.
+
 
 ## ⚠️ Vulnerability Management Projects
 
