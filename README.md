@@ -4,9 +4,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sunilselvaraj1/threat-hunting-scenario-tor)**
-- **[Brute Force Detection on Azure VM using KQL and SIEM (Microsoft Sentinel)](https://github.com/sunilselvaraj1/brute-force-detection)**  
-- **[Insider Threat: Data Exfiltration Attempt by PIP’d Employee (Microsoft Defender)](https://github.com/sunilselvaraj1/threat-hunting-data-exfiltration/blob/main/README.md)**
+- **[Threat Hunting: Tor Browser Usage](https://github.com/sunilselvaraj1/threat-hunting-scenario-tor)**
+- **[Threat Hunting: Brute Force Detection on Azure VM using KQL and SIEM (Microsoft Sentinel)](https://github.com/sunilselvaraj1/brute-force-detection)**  
+- **[Threat Hunting: Insider Threat: Data Exfiltration Attempt by PIP’d Employee (Microsoft Defender)](https://github.com/sunilselvaraj1/threat-hunting-data-exfiltration/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
