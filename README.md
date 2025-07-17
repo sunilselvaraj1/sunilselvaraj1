@@ -2,16 +2,32 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## 🚨 Threat Hunting and Security Operations
+# 🔐 Security Operation Projects 🛡️
 
-- **[Threat Hunting: Tor Browser Usage](https://github.com/sunilselvaraj1/threat-hunting-scenario-tor)**
-- **[Threat Hunting: Brute Force Detection on Azure VM using KQL and SIEM (Microsoft Sentinel)](https://github.com/sunilselvaraj1/brute-force-detection)**  
-- **[Threat Hunting: Insider Threat: Data Exfiltration Attempt by PIP’d Employee (Microsoft Defender)](https://github.com/sunilselvaraj1/threat-hunting-data-exfiltration/blob/main/README.md)**
+## 🔍 Threat Hunting Projects
 
-## ⚠️ Vulnerability Management Projects
+- **[Tor Browser Usage Detection](https://github.com/sunilselvaraj1/threat-hunting-scenario-tor)**
+- **[Device exposed to the internet - brute-force detection on Azure VM using KQL and SIEM (Microsoft Sentinel)](https://github.com/sunilselvaraj1/brute-force-detection)**  
+- **[Insider Threat: Data Exfiltration via PIP’d Employee](https://github.com/sunilselvaraj1/threat-hunting-data-exfiltration/blob/main/README.md)**
+- **[Sudden Network Slowdown Investigation](https://github.com/sunilselvaraj1/)**
+- **[Zero-Day Reaction via Threat Intel](https://github.com/sunilselvaraj1/)**
 
-- **[Vulnerability Management Program Implementation](https://github.com/sunilselvaraj1/vulnerability-management-program)**
+## 🚨 Incident Response
+
+- **[Incident Response: Virtual Machine Brute Force Detection](https://github.com/sunilselvaraj1/)**
+- **[Incident Response: PowerShell Suspicious Web Request](https://github.com/sunilselvaraj1/)**  
+- **[Incident Response: Potential Impossible Travel](https://github.com/sunilselvaraj1/)**
+
+#
+
+# ⚠️ Vulnerability Management Projects
+
+- **[End-to-End Vulnerability Management Program Implementation](https://github.com/sunilselvaraj1/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/sunilselvaraj1/programmatic-vulnerability-remediations)**
+- **[Windows vulnerability scanning & manual remediation](https://github.com/sunilselvaraj1/)**
+- **[Windows vulnerability scanning & programatic remediation](https://github.com/sunilselvaraj1/)**
+- **[Linux vulnerability scanning & manual remediation](https://github.com/sunilselvaraj1/)**
+- **[Linux vulnerability scanning & programatic remediation](https://github.com/sunilselvaraj1/)**
 
 <hr/>
 
