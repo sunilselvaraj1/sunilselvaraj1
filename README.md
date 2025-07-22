@@ -10,7 +10,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Device exposed to the internet - brute-force detection on Azure VM using KQL and SIEM (Microsoft Sentinel)](https://github.com/sunilselvaraj1/brute-force-detection)**  
 - **[Insider Threat: Data Exfiltration via PIP’d Employee](https://github.com/sunilselvaraj1/threat-hunting-data-exfiltration/blob/main/README.md)**
 - **[Sudden Network Slowdown Investigation](https://github.com/sunilselvaraj1/)**
-- **[Zero-Day Reaction via Threat Intel](https://github.com/sunilselvaraj1/)**
 
 ## 🚨 Incident Response
 
