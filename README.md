@@ -2,22 +2,12 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-# 🔐 Security Operation Projects 🛡️
-
-## 🔍 Threat Hunting Projects
+# 🔍 Threat Hunting Projects
 
 - **[Tor Browser Usage Detection](https://github.com/sunilselvaraj1/threat-hunting-scenario-tor)**
 - **[Device exposed to the internet - brute-force detection on Azure VM using KQL and SIEM (Microsoft Sentinel)](https://github.com/sunilselvaraj1/brute-force-detection)**  
 - **[Insider Threat: Data Exfiltration via PIP’d Employee](https://github.com/sunilselvaraj1/threat-hunting-data-exfiltration/blob/main/README.md)**
 - **[Sudden Network Slowdown Investigation](https://github.com/sunilselvaraj1/)**
-
-## 🚨 Incident Response
-
-- **[Incident Response: Virtual Machine Brute Force Detection](https://github.com/sunilselvaraj1/)**
-- **[Incident Response: PowerShell Suspicious Web Request](https://github.com/sunilselvaraj1/)**  
-- **[Incident Response: Potential Impossible Travel](https://github.com/sunilselvaraj1/)**
-
-#
 
 # ⚠️ Vulnerability Management Projects
 
@@ -27,6 +17,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Windows vulnerability scanning & programatic remediation](https://github.com/sunilselvaraj1/)**
 - **[Linux vulnerability scanning & manual remediation](https://github.com/sunilselvaraj1/)**
 - **[Linux vulnerability scanning & programatic remediation](https://github.com/sunilselvaraj1/)**
+
+## 🚨 Incident Response
+
+- **[Incident Response: Virtual Machine Brute Force Detection](https://github.com/sunilselvaraj1/)**
+- **[Incident Response: PowerShell Suspicious Web Request](https://github.com/sunilselvaraj1/)**  
+- **[Incident Response: Potential Impossible Travel](https://github.com/sunilselvaraj1/)**
+
+
 
 <hr/>
 
