@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 # 🚨 Incident Response
 
-1. **[Brute Force Attack](https://github.com/sunilselvaraj1/brute-force-detection)**
+1. **[Brute Force Attack](https://github.com/sunilselvaraj1/Brute-Force-Attack)**
 2. **[PowerShell Suspicious Web Request](https://github.com/sunilselvaraj1/)**  
 3. **[Potential Impossible Travel](https://github.com/sunilselvaraj1/)**
 4. **[Excessive Resource Creation / Deletion](https://github.com/sunilselvaraj1/)**
