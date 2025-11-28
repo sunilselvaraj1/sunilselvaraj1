@@ -2,6 +2,12 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+# 🚨 Incident Response
+
+- **[Incident Response: Virtual Machine Brute Force Detection](https://github.com/sunilselvaraj1/)**
+- **[Incident Response: PowerShell Suspicious Web Request](https://github.com/sunilselvaraj1/)**  
+- **[Incident Response: Potential Impossible Travel](https://github.com/sunilselvaraj1/)**
+
 # 🔍 Threat Hunting Projects
 
 - **[Tor Browser Usage Detection](https://github.com/sunilselvaraj1/threat-hunting-scenario-tor)**
@@ -17,12 +23,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Windows vulnerability scanning & programmatic remediation](https://github.com/sunilselvaraj1/Windows-vulnerability-scanning-programmatic-remediation)**
 - **[Linux vulnerability scanning & manual remediation](https://github.com/sunilselvaraj1/Linux-vulnerability-scanning-manual-remediation)**
 - **[Linux vulnerability scanning & programmatic remediation](https://github.com/sunilselvaraj1/Linux-vulnerability-scanning-programmatic-remediation)**
-
-# 🚨 Incident Response
-
-- **[Incident Response: Virtual Machine Brute Force Detection](https://github.com/sunilselvaraj1/)**
-- **[Incident Response: PowerShell Suspicious Web Request](https://github.com/sunilselvaraj1/)**  
-- **[Incident Response: Potential Impossible Travel](https://github.com/sunilselvaraj1/)**
 
 
 
