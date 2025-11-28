@@ -4,25 +4,28 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 # 🚨 Incident Response
 
-- **[Incident Response: Virtual Machine Brute Force Detection](https://github.com/sunilselvaraj1/)**
-- **[Incident Response: PowerShell Suspicious Web Request](https://github.com/sunilselvaraj1/)**  
-- **[Incident Response: Potential Impossible Travel](https://github.com/sunilselvaraj1/)**
+1. **[Virtual Machine Brute Force Detection](https://github.com/sunilselvaraj1/)**
+2. **[PowerShell Suspicious Web Request](https://github.com/sunilselvaraj1/)**  
+3. **[Potential Impossible Travel](https://github.com/sunilselvaraj1/)**
+4. **[Excessive Resource Creation / Deletion](https://github.com/sunilselvaraj1/)**
 
 # 🔍 Threat Hunting
 
-- **[Tor Browser Usage Detection](https://github.com/sunilselvaraj1/threat-hunting-scenario-tor)**
-- **[Device exposed to the internet - brute-force detection on Azure VM using KQL and SIEM (Microsoft Sentinel)](https://github.com/sunilselvaraj1/brute-force-detection)**  
-- **[Insider Threat: Data Exfiltration via PIP’d Employee](https://github.com/sunilselvaraj1/threat-hunting-data-exfiltration/blob/main/README.md)**
-- **[Sudden Network Slowdown Investigation](https://github.com/sunilselvaraj1/Sudden-Network-Slowdown-Investigation)**
+1. **[Tor Browser Usage Detection](https://github.com/sunilselvaraj1/threat-hunting-scenario-tor)**
+2. **[Device exposed to the internet - brute-force detection on Azure VM using KQL and SIEM (Microsoft Sentinel)](https://github.com/sunilselvaraj1/brute-force-detection)**  
+3. **[Sudden Network Slowdown Investigation](https://github.com/sunilselvaraj1/Sudden-Network-Slowdown-Investigation)**
+4. **[Data Exfiltration attempt](https://github.com/sunilselvaraj1/threat-hunting-data-exfiltration/blob/main/README.md)**
+5. **[New Zero-Day Announced on News](https://github.com/sunilselvaraj1)**
+
 
 # ⚠️ Vulnerability Management
 
-- **[End-to-End Vulnerability Management Program Implementation](https://github.com/sunilselvaraj1/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/sunilselvaraj1/programmatic-vulnerability-remediations)**
-- **[Windows vulnerability scanning & manual remediation](https://github.com/sunilselvaraj1/Windows-vulnerability-scanning-manual-remediation)**
-- **[Windows vulnerability scanning & programmatic remediation](https://github.com/sunilselvaraj1/Windows-vulnerability-scanning-programmatic-remediation)**
-- **[Linux vulnerability scanning & manual remediation](https://github.com/sunilselvaraj1/Linux-vulnerability-scanning-manual-remediation)**
-- **[Linux vulnerability scanning & programmatic remediation](https://github.com/sunilselvaraj1/Linux-vulnerability-scanning-programmatic-remediation)**
+1. **[End-to-End Vulnerability Management Program Implementation](https://github.com/sunilselvaraj1/vulnerability-management-program)**
+2. **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/sunilselvaraj1/programmatic-vulnerability-remediations)**
+3. **[Windows vulnerability scanning & manual remediation](https://github.com/sunilselvaraj1/Windows-vulnerability-scanning-manual-remediation)**
+4. **[Windows vulnerability scanning & programmatic remediation](https://github.com/sunilselvaraj1/Windows-vulnerability-scanning-programmatic-remediation)**
+5. **[Linux vulnerability scanning & manual remediation](https://github.com/sunilselvaraj1/Linux-vulnerability-scanning-manual-remediation)**
+6. **[Linux vulnerability scanning & programmatic remediation](https://github.com/sunilselvaraj1/Linux-vulnerability-scanning-programmatic-remediation)**
 
 
 
