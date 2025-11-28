@@ -8,14 +8,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Incident Response: PowerShell Suspicious Web Request](https://github.com/sunilselvaraj1/)**  
 - **[Incident Response: Potential Impossible Travel](https://github.com/sunilselvaraj1/)**
 
-# 🔍 Threat Hunting Projects
+# 🔍 Threat Hunting
 
 - **[Tor Browser Usage Detection](https://github.com/sunilselvaraj1/threat-hunting-scenario-tor)**
 - **[Device exposed to the internet - brute-force detection on Azure VM using KQL and SIEM (Microsoft Sentinel)](https://github.com/sunilselvaraj1/brute-force-detection)**  
 - **[Insider Threat: Data Exfiltration via PIP’d Employee](https://github.com/sunilselvaraj1/threat-hunting-data-exfiltration/blob/main/README.md)**
 - **[Sudden Network Slowdown Investigation](https://github.com/sunilselvaraj1/Sudden-Network-Slowdown-Investigation)**
 
-# ⚠️ Vulnerability Management Projects
+# ⚠️ Vulnerability Management
 
 - **[End-to-End Vulnerability Management Program Implementation](https://github.com/sunilselvaraj1/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/sunilselvaraj1/programmatic-vulnerability-remediations)**
